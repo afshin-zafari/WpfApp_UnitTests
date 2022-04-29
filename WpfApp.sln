@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp", "WpfApp.csproj", "{722A5F2C-E030-4D38-8DCF-0FB2198BC920}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp.msTest", "..\WpfApp.msTest\WpfApp.msTest.csproj", "{6430EBED-052D-4930-A77A-3E740E26A22F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp.msTest", ".\WpfApp.msTest\WpfApp.msTest.csproj", "{6430EBED-052D-4930-A77A-3E740E26A22F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp.Test.nUnit", "..\WpfApp.Test.nUnit\WpfApp.Test.nUnit.csproj", "{253B762E-C7C3-4201-9AD8-09CD7FC8F6EB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp.Test.nUnit", ".\WpfApp.Test.nUnit\WpfApp.Test.nUnit.csproj", "{253B762E-C7C3-4201-9AD8-09CD7FC8F6EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp.Test.xUnit", "..\WpfApp.Test.xUnit\WpfApp.Test.xUnit.csproj", "{3B2A1198-BCAA-425B-89BC-E4F170F8CCD6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp.Test.xUnit", ".\WpfApp.Test.xUnit\WpfApp.Test.xUnit.csproj", "{3B2A1198-BCAA-425B-89BC-E4F170F8CCD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
