@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Afshin\\DotNET_UnitTest\\WpfApp.Test.nUnit\\WpfApp.Test.nUnit.csproj": {}
+  },
+  "projects": {
+    "D:\\Afshin\\DotNET_UnitTest\\WpfApp.Test.nUnit\\WpfApp.Test.nUnit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Afshin\\DotNET_UnitTest\\WpfApp.Test.nUnit\\WpfApp.Test.nUnit.csproj",
+        "projectName": "WpfApp.Test.nUnit",
+        "projectPath": "D:\\Afshin\\DotNET_UnitTest\\WpfApp.Test.nUnit\\WpfApp.Test.nUnit.csproj",
+        "packagesPath": "C:\\Users\\qamcom\\.nuget\\packages\\",
+        "outputPath": "D:\\Afshin\\DotNET_UnitTest\\WpfApp.Test.nUnit\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\qamcom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Afshin\\DotNET_UnitTest\\WpfApp\\WpfApp.csproj": {
+                "projectPath": "D:\\Afshin\\DotNET_UnitTest\\WpfApp\\WpfApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Afshin\\DotNET_UnitTest\\WpfApp\\WpfApp.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Afshin\\DotNET_UnitTest\\WpfApp\\WpfApp.csproj",
+        "projectName": "WpfApp",
+        "projectPath": "D:\\Afshin\\DotNET_UnitTest\\WpfApp\\WpfApp.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
