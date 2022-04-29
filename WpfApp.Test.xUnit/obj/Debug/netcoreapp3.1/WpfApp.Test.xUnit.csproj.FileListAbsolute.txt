@@ -94,3 +94,6 @@ D:\Afshin\DotNET_UnitTest\WpfApp.Test.xUnit\obj\Debug\netcoreapp3.1\WpfApp.Test.
 D:\Afshin\DotNET_UnitTest\WpfApp.Test.xUnit\obj\Debug\netcoreapp3.1\WpfApp.Test.xUnit.dll
 D:\Afshin\DotNET_UnitTest\WpfApp.Test.xUnit\obj\Debug\netcoreapp3.1\WpfApp.Test.xUnit.pdb
 D:\Afshin\DotNET_UnitTest\WpfApp.Test.xUnit\obj\Debug\netcoreapp3.1\WpfApp.Test.xUnit.genruntimeconfig.cache
+D:\Afshin\DotNET_UnitTest\WpfApp.Test.xUnit\bin\Debug\netcoreapp3.1\WpfApp.exe
+D:\Afshin\DotNET_UnitTest\WpfApp.Test.xUnit\bin\Debug\netcoreapp3.1\WpfApp.pdb
+D:\Afshin\DotNET_UnitTest\WpfApp.Test.xUnit\bin\Debug\netcoreapp3.1\WpfApp.exe.config
