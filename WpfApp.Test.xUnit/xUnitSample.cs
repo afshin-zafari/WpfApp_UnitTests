@@ -18,7 +18,7 @@ namespace WpfApp.Test.xUnit
         }
         [Theory]
         [InlineData(2,2,4)]
-        public void InputListToTestCase(int x, int y, int z)
+        public void InputListToTestCase(int x, int y, int z) 
         {
             ctl = new SUT.PlateController();
             Assert.Equal(z, ctl.AddNums(x, y));
