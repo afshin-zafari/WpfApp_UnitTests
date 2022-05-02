@@ -14,13 +14,13 @@ set nUnitTest=".\WpfApp.Test.%NUNIT_Framework%\bin\Debug\netcoreapp3.1\WpfApp.Te
 @echo "===================================================================="
 %MSBUILD% -t:Rebuild -verbosity:minimal 
 
-@echo ""
+@echo " "
 @echo "===================================================================="
 @echo "                 Test msTest unit tests "
 @echo "===================================================================="
 %VSTEST% %msUnitTest%
 
-@echo ""
+@echo " "
 @echo "===================================================================="
 @echo "                 Test xUnit unit tests "
 @echo "===================================================================="
