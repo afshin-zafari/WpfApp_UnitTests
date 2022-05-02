@@ -26,7 +26,7 @@ set nUnitTest=".\WpfApp.Test.%NUNIT_Framework%\bin\Debug\netcoreapp3.1\WpfApp.Te
 @echo "===================================================================="
 %VSTEST% %xUnitTest%
 
-@echo ""
+@echo " "
 @echo "===================================================================="
 @echo "                 Test nUnit unit tests "
 @echo "===================================================================="
