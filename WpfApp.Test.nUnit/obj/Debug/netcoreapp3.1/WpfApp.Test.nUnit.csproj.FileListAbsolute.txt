@@ -89,7 +89,6 @@ D:\Afshin\DotNET_UnitTest\WpfApp.Test.nUnit\bin\Debug\netcoreapp3.1\zh-Hant\Micr
 D:\Afshin\DotNET_UnitTest\WpfApp.Test.nUnit\bin\Debug\netcoreapp3.1\WpfApp.exe
 D:\Afshin\DotNET_UnitTest\WpfApp.Test.nUnit\bin\Debug\netcoreapp3.1\WpfApp.pdb
 D:\Afshin\DotNET_UnitTest\WpfApp.Test.nUnit\bin\Debug\netcoreapp3.1\WpfApp.exe.config
-D:\Afshin\DotNET_UnitTest\WpfApp.Test.nUnit\obj\Debug\netcoreapp3.1\WpfApp.Test.nUnit.csprojAssemblyReference.cache
 D:\Afshin\DotNET_UnitTest\WpfApp.Test.nUnit\obj\Debug\netcoreapp3.1\WpfApp.Test.nUnit.AssemblyInfoInputs.cache
 D:\Afshin\DotNET_UnitTest\WpfApp.Test.nUnit\obj\Debug\netcoreapp3.1\WpfApp.Test.nUnit.AssemblyInfo.cs
 D:\Afshin\DotNET_UnitTest\WpfApp.Test.nUnit\obj\Debug\netcoreapp3.1\WpfApp.Test.nUnit.csproj.CoreCompileInputs.cache
@@ -97,3 +96,5 @@ D:\Afshin\DotNET_UnitTest\WpfApp.Test.nUnit\obj\Debug\netcoreapp3.1\WpfApp.Test.
 D:\Afshin\DotNET_UnitTest\WpfApp.Test.nUnit\obj\Debug\netcoreapp3.1\WpfApp.Test.nUnit.dll
 D:\Afshin\DotNET_UnitTest\WpfApp.Test.nUnit\obj\Debug\netcoreapp3.1\WpfApp.Test.nUnit.pdb
 D:\Afshin\DotNET_UnitTest\WpfApp.Test.nUnit\obj\Debug\netcoreapp3.1\WpfApp.Test.nUnit.genruntimeconfig.cache
+D:\Afshin\DotNET_UnitTest\WpfApp.Test.nUnit\obj\Debug\netcoreapp3.1\WpfApp.Test.nUnit.csproj.AssemblyReference.cache
+D:\Afshin\DotNET_UnitTest\WpfApp.Test.nUnit\obj\Debug\netcoreapp3.1\WpfApp.Test.nUnit.GeneratedMSBuildEditorConfig.editorconfig

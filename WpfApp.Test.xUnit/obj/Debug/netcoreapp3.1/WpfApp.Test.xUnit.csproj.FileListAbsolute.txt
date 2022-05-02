@@ -86,7 +86,6 @@ D:\Afshin\DotNET_UnitTest\WpfApp.Test.xUnit\bin\Debug\netcoreapp3.1\zh-Hans\Micr
 D:\Afshin\DotNET_UnitTest\WpfApp.Test.xUnit\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 D:\Afshin\DotNET_UnitTest\WpfApp.Test.xUnit\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 D:\Afshin\DotNET_UnitTest\WpfApp.Test.xUnit\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Afshin\DotNET_UnitTest\WpfApp.Test.xUnit\obj\Debug\netcoreapp3.1\WpfApp.Test.xUnit.csprojAssemblyReference.cache
 D:\Afshin\DotNET_UnitTest\WpfApp.Test.xUnit\obj\Debug\netcoreapp3.1\WpfApp.Test.xUnit.AssemblyInfoInputs.cache
 D:\Afshin\DotNET_UnitTest\WpfApp.Test.xUnit\obj\Debug\netcoreapp3.1\WpfApp.Test.xUnit.AssemblyInfo.cs
 D:\Afshin\DotNET_UnitTest\WpfApp.Test.xUnit\obj\Debug\netcoreapp3.1\WpfApp.Test.xUnit.csproj.CoreCompileInputs.cache
@@ -97,3 +96,5 @@ D:\Afshin\DotNET_UnitTest\WpfApp.Test.xUnit\obj\Debug\netcoreapp3.1\WpfApp.Test.
 D:\Afshin\DotNET_UnitTest\WpfApp.Test.xUnit\bin\Debug\netcoreapp3.1\WpfApp.exe
 D:\Afshin\DotNET_UnitTest\WpfApp.Test.xUnit\bin\Debug\netcoreapp3.1\WpfApp.pdb
 D:\Afshin\DotNET_UnitTest\WpfApp.Test.xUnit\bin\Debug\netcoreapp3.1\WpfApp.exe.config
+D:\Afshin\DotNET_UnitTest\WpfApp.Test.xUnit\obj\Debug\netcoreapp3.1\WpfApp.Test.xUnit.csproj.AssemblyReference.cache
+D:\Afshin\DotNET_UnitTest\WpfApp.Test.xUnit\obj\Debug\netcoreapp3.1\WpfApp.Test.xUnit.GeneratedMSBuildEditorConfig.editorconfig
